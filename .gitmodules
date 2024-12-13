@@ -4,3 +4,6 @@
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/contracts.git"]
+	path = lib/contracts.git
+	url = https://github.com/velodrome-finance/contracts.git
